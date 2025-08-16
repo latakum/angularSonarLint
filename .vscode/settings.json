@@ -1,0 +1,4 @@
+{
+    "sonarlint.connectedMode.enabled": true,
+    "sonarlint.output.showAnalyzerLogs": true
+}

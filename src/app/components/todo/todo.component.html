@@ -1,0 +1,9 @@
+<h2>My Todo List</h2>
+
+<ul>
+  <li *ngFor="let item of todos">
+    {{ item }}
+  </li>
+</ul>
+
+<button (click)="logTodos()">Log Todos</button>
