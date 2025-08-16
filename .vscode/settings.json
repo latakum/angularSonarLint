@@ -1,4 +1,8 @@
 {
     "sonarlint.connectedMode.enabled": true,
-    "sonarlint.output.showAnalyzerLogs": true
+    "sonarlint.output.showAnalyzerLogs": true,
+    "sonarlint.connectedMode.project": {
+        "connectionId": "latakum",
+        "projectKey": "latakum_angularSonarLint"
+    }
 }
